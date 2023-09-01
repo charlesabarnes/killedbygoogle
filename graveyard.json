@@ -1,5 +1,13 @@
 [
   {
+    "dateClose": "2023-08-29",
+    "dateOpen": "2021-10-28",
+    "description": "A way to help users save money by bundling Pixel phones with Google services.",
+    "link": "https://support.google.com/pixelpass/answer/13968577",
+    "name": "Pixel Pass",
+    "type": "service"
+  },
+  {
     "dateClose": "2023-06-26",
     "dateOpen": "2017-11-29",
     "description": "YouTube Stories (originally YouTube Reels) allowed creators to post temporary videos that would expire after seven days.",
